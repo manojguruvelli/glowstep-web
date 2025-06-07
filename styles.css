@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5FF;
+    text-align: center;
+}
+
+header {
+    background-color: #6A0DAD;
+    color: white;
+    padding: 20px;
+}
+
+.logo {
+    width: 150px;
+}
+
+section {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #6A0DAD;
+}
+
+.service {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.service img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #6A0DAD;
+    color: white;
+    padding: 10px;
+}
